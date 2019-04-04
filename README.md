@@ -1,1 +1,3 @@
 # RoboContest-2019
+RED-BLUE
+BLACK-GREEN
