@@ -45,9 +45,9 @@ void loop(){
   Serial.print("     ");
   Serial.print(digitalRead(12));
   Serial.print("     ");
-  Serial.println(digitalRead(A1));
+  Serial.print(digitalRead(A1));
   Serial.print("     ");
-  Serial.println(step1);
+  Serial.print(step1);
   Serial.print("     ");
   Serial.println(step2);
   
